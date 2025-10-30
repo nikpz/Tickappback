@@ -1,0 +1,5 @@
+-- Example SQL (run as a superuser) to create DB and user:
+-- CREATE USER tickup_user WITH PASSWORD 'securepassword';
+-- CREATE DATABASE tickup_db OWNER tickup_user;
+-- GRANT ALL PRIVILEGES ON DATABASE tickup_db TO tickup_user;
+-- Then set DATABASE_URL=postgres://tickup_user:securepassword@localhost:5432/tickup_db
