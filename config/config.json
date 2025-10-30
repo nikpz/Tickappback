@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "tcyouir1_rooh",
+      "password": "xnph6912bhr7",
+      "database": "tcyouir3_db",
+      "host": "localhost",
+      "dialect": "postgres"
+    }
+  }
+  
